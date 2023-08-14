@@ -1,2 +1,2 @@
 # BiasBusters
-Orbital WanSui Machine Learning Bot &lt;3 
+Sentiment Analysis telegram bot that gives students the best insights on NUS module based on online reviews &lt;3 

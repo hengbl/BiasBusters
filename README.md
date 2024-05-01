@@ -47,13 +47,13 @@ This makes us ponder, wouldn’t it be great if there’s a **fast and convenien
 ![flow_chart](images/flow_chart.png)
 
 ## Tech Stack
-<table style="border: 0px;">
-  <tr style="border: 0px;">
-    <td align="center"><img src="images/python.svg" width="40" height="40"><br>Python</td>
-    <td align="center"><img src="images/sklearn.png" width="51" height="28"><br>Scikit-Learn</td>
-    <td align="center"><img src="images/tensorflow.svg" width="40" height="40"><br>TensorFlow</td>
-    <td align="center"><img src="images/mongodb.svg" width="40" height="40"><br>MongoDB</td>
-    <td align="center"><img src="images/Telegram.png" width="40" height="40"><br>Telebot</td>
+<table style="border-collapse: collapse; border: none;"">
+  <tr>
+    <td align="center"><img src="images/python.svg" width="100" height="100"><br>Python</td>
+    <td align="center"><img src="images/sklearn.png" width="102" height="56"><br>Scikit-Learn</td>
+    <td align="center"><img src="images/tensorflow.svg" width="80" height="80"><br>TensorFlow</td>
+    <td align="center"><img src="images/mongodb.svg" width="80" height="80"><br>MongoDB</td>
+    <td align="center"><img src="images/Telegram.png" width="80" height="80"><br>Telebot</td>
   </tr>
 </table>
 

@@ -1,9 +1,9 @@
 import pytest
-from analyser import (
+from utils.analyser import (
     make_bar, mod_exist, retrieve_sentiments, insert_info,
     get_sentiments, generate_result, eliminate_shared_words, wordcloud
 )
-from create_mongodb import get_database
+from config.create_mongodb import get_database
 
 # mock reviews
 pos_test_reviews = ["cs1010s was a good mod and prof is very meticulous"]

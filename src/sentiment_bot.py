@@ -6,9 +6,9 @@ from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import asyncio
 import re
-from create_mongodb import get_database
-from crawler import crawl
-from analyser import get_sentiments, retrieve_sentiments, generate_result, get_good, get_neg, get_msg, mod_exist, wordcloud
+from config.create_mongodb import get_database
+from utils.crawler import crawl
+from utils.analyser import get_sentiments, retrieve_sentiments, generate_result, get_good, get_neg, get_msg, mod_exist, wordcloud
 
 
  # set up database collection to store all users' previous command 

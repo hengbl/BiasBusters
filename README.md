@@ -1,5 +1,5 @@
 # BiasBusters
-![logo](images/logo.png)
+<img src="images/logo.png" width="300" height="200">
 Sentiment Analysis telegram bot that gives students the best insights on NUS module based on online reviews &lt;3 
 
 ## Installation

@@ -47,10 +47,10 @@ This makes us ponder, wouldn’t it be great if there’s a **fast and convenien
 ![flow_chart](images/flow_chart.png)
 
 ## Tech Stack
-<table>
-  <tr>
+<table style="border: 0px;">
+  <tr style="border: 0px;">
     <td align="center"><img src="images/python.svg" width="40" height="40"><br>Python</td>
-    <td align="center"><img src="images/sklearn.png" width="40" height="40"><br>Scikit-Learn</td>
+    <td align="center"><img src="images/sklearn.png" width="51" height="28"><br>Scikit-Learn</td>
     <td align="center"><img src="images/tensorflow.svg" width="40" height="40"><br>TensorFlow</td>
     <td align="center"><img src="images/mongodb.svg" width="40" height="40"><br>MongoDB</td>
     <td align="center"><img src="images/Telegram.png" width="40" height="40"><br>Telebot</td>

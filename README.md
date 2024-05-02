@@ -56,7 +56,7 @@ This makes us ponder, wouldn’t it be great if there’s a **fast and convenien
   &nbsp;
   <a href="https://www.tensorflow.org" title="Tensorflow"><img src="images/tensorflow.svg" height="100" width="auto" /></a>
   &nbsp;
-  <a href="https://www.google.com/search?client=safari&rls=en&q=telebot&ie=UTF-8&oe=UTF-8" title="Telebot"><img src="images/telegram.svg" height="100" width="auto" /></a>
+  <a href="https://www.google.com/search?client=safari&rls=en&q=telebot&ie=UTF-8&oe=UTF-8" title="Telebot"><img src="images/Telegram.png" height="100" width="auto" /></a>
   &nbsp;
   <a href="https://www.google.com/search?client=safari&rls=en&q=mongodb+documentation&ie=UTF-8&oe=UTF-8" title="MongoDB"><img src="images/mongodb.svg" height="100" width="auto" /></a>
   &nbsp;

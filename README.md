@@ -50,17 +50,17 @@ This makes us ponder, wouldn’t it be great if there’s a **fast and convenien
 <!-- markdownlint-disable MD033 -->
 <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
 <p align="center">
-  <a href="https://www.python.org/" title="Python"><img src="svgs/python.svg" height="50" width="auto" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="images/python.svg" height="100" width="auto" /></a>
   &nbsp;
-  <a href="https://scikit-learn.org/stable/" title="Scikit-Learn"><img src="svgs/sklearn.png" height="50" width="auto" /></a>
+  <a href="https://scikit-learn.org/stable/" title="Scikit-Learn"><img src="images/sklearn.png" height="100" width="auto" /></a>
   &nbsp;
-  <a href="https://www.tensorflow.org" title="Tensorflow"><img src="svgs/tensorflow.svg" height="50" width="auto" /></a>
+  <a href="https://www.tensorflow.org" title="Tensorflow"><img src="images/tensorflow.svg" height="100" width="auto" /></a>
   &nbsp;
-  <a href="https://www.google.com/search?client=safari&rls=en&q=telebot&ie=UTF-8&oe=UTF-8" title="Telebot"><img src="svgs/telegram.svg" height="50" width="auto" /></a>
+  <a href="https://www.google.com/search?client=safari&rls=en&q=telebot&ie=UTF-8&oe=UTF-8" title="Telebot"><img src="images/telegram.svg" height="100" width="auto" /></a>
   &nbsp;
-  <a href="https://www.google.com/search?client=safari&rls=en&q=mongodb+documentation&ie=UTF-8&oe=UTF-8" title="MongoDB"><img src="svgs/mongodb.svg" height="50" width="auto" /></a>
+  <a href="https://www.google.com/search?client=safari&rls=en&q=mongodb+documentation&ie=UTF-8&oe=UTF-8" title="MongoDB"><img src="images/mongodb.svg" height="100" width="auto" /></a>
   &nbsp;
-  <a href="https://git-scm.com/doc" title="Git"><img src="svgs/git.svg" height="50" width="auto" /></a>
+  <a href="https://git-scm.com/doc" title="Git"><img src="images/git.svg" height="100" width="auto" /></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 

@@ -47,15 +47,22 @@ This makes us ponder, wouldn’t it be great if there’s a **fast and convenien
 ![flow_chart](images/flow_chart.png)
 
 ## Tech Stack
-<table style="border-collapse: collapse; border: none;"">
-  <tr>
-    <td align="center"><img src="images/python.svg" width="100" height="100"><br>Python</td>
-    <td align="center"><img src="images/sklearn.png" width="102" height="56"><br>Scikit-Learn</td>
-    <td align="center"><img src="images/tensorflow.svg" width="80" height="80"><br>TensorFlow</td>
-    <td align="center"><img src="images/mongodb.svg" width="80" height="80"><br>MongoDB</td>
-    <td align="center"><img src="images/Telegram.png" width="80" height="80"><br>Telebot</td>
-  </tr>
-</table>
+<!-- markdownlint-disable MD033 -->
+<!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
+<p align="center">
+  <a href="https://www.python.org/" title="Python"><img src="svgs/python.svg" height="50" width="auto" /></a>
+  &nbsp;
+  <a href="https://scikit-learn.org/stable/" title="Scikit-Learn"><img src="svgs/sklearn.png" height="50" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.tensorflow.org" title="Tensorflow"><img src="svgs/tensorflow.svg" height="50" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.google.com/search?client=safari&rls=en&q=telebot&ie=UTF-8&oe=UTF-8" title="Telebot"><img src="svgs/telegram.svg" height="50" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.google.com/search?client=safari&rls=en&q=mongodb+documentation&ie=UTF-8&oe=UTF-8" title="MongoDB"><img src="svgs/mongodb.svg" height="50" width="auto" /></a>
+  &nbsp;
+  <a href="https://git-scm.com/doc" title="Git"><img src="svgs/git.svg" height="50" width="auto" /></a>
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ## Documentation
 - See our full documentation and report [here](https://docs.google.com/document/d/1oEJ0yzHoCiJSVWkN6aBg4_yyP9agPJLlX_myntL60oU/edit?usp=sharing).
